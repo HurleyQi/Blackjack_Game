@@ -1,0 +1,37 @@
+h1 {
+    color: gold;
+    text-align: center;
+    font-size: 60px;
+    font-weight:lighter;
+}
+
+body {
+    background-image: url(./Pictures/blackjack_background.jpeg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.displayText {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-style: italic;
+    font: weight 500px; ;
+}
+
+button{
+    background-color: goldenrod;
+    color: #016f32;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 150px;
+    border: none;
+    font-weight: bold;
+    border-radius: 2px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
